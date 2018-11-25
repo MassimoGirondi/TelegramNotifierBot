@@ -1,10 +1,10 @@
 # Telegram Notifier bot
 
-This a simple Telegram bot that can send you notification about events in a Linux based system.
+This a simple Telegram bot that can send you notifications about events in a Linux based system.
 For example, it can be called from an automatic updates script or from a download manager when something happens.
 
 # Usage
-
+* Install [Telepot](https://github.com/nickoala/telepot). You can use `pip`: `pip install telepot`
 * Clone this repository
 * Create a bot contacting [@BotFather](https://t.me/BotFather)
 * Copy the token code inside the `config.EDIT.py` file and rename it to `config.py`
